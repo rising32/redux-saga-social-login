@@ -38,7 +38,3 @@ const facebookAppId = 'FACEBOOK_APP_ID'
 Then, just use `npm start` and open http://localhost:3000
 
 Sagas are located in [`src/store/social/sagas.js`](src/store/social/sagas.js).
-
-## License
-
-MIT © [Diego Haz](https://github.com/diegohaz)
